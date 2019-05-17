@@ -110,6 +110,7 @@ return [
         'phprn.com.br' => [
             'deploy_path' => '/var/www/startupday',
             'user' => 'root',
+            'port' => '6789',
         ],
     ],
 
