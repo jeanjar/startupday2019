@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel + PHPRN
+                    Laravel + PHPRN + PHP BRASIL
                 </div>
 
                 <div class="links">
